@@ -42,7 +42,7 @@ function Counter() {
   )
 }
 
-export default function demo(){
+export default function Demo(){
   return (
     <Provider store={store}>
       <Counter />
